@@ -172,3 +172,79 @@
     </tbody>
 </table>
 
+# 6. 현황파악
+
+<img width="1000" alt="Image" src="https://github.com/user-attachments/assets/87e4d00c-4b16-4efe-9c0e-08dda3c49957" />
+
+### 판매자, 고객 별 동일한 상황에서 수수료율에 차이가 있음을 확인.  현재 수수료에 대한 명확한 기준 X
+
+-> 명확한 수수료 기준 확립 필요
+
+<img width="1000" alt="Image" src="https://github.com/user-attachments/assets/75da56bd-d149-4db7-b15c-20ddfd946dc8" />
+
+### 판매 금액이 높은 사람들이 매출의 큰 비중을 차지
+-> 실적에 따른 차별화된 시스템 필요
+
+# 7. RFM 분석기법 적용
+
+### 이탈 예측 클래스 생성
+
+<img width="1000" alt="Image" src="https://github.com/user-attachments/assets/c81c2742-6ca0-4bcf-96b6-e2dd6f4b0f53" />
+
+
+### 예상 기대 수익 모형 생성
+<img width="1000" alt="Image" src="https://github.com/user-attachments/assets/c15fec22-28ac-428e-97fd-c4475676cf58" />
+
+<br><br>
+
+<img width="1000" alt="Image" src="https://github.com/user-attachments/assets/db1b7be8-189d-4b84-940f-098e607aa97c" />
+
+### 이탈 위험 판매자의 평균 기대수익이 가장 높음
+
+-> 해당 군집의 판매자들을 유인할 수 있는 정책 필요
+
+
+# 8. 수수료 시스템 개선
+<table border="1" style="border-collapse: collapse; text-align: center;">
+    <thead>
+        <tr style="background-color: #2D2178; color: white;">
+            <th>매출</th>
+            <th>일괄</th>
+            <th>100만원 판매 달성</th>
+            <th>200만원 판매 달성</th>
+            <th>500만원 판매 달성</th>
+            <th>1000만원 판매 달성</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="background-color: #2D2178; color: white;">수수료</td>
+            <td>10%</td>
+            <td>9%</td>
+            <td>7%</td>
+            <td>5%</td>
+            <td>3%</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<img width="1000" alt="Image" src="https://github.com/user-attachments/assets/cd3fe01f-6a63-4443-b664-6ffab89ac49f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
